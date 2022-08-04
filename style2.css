@@ -256,7 +256,7 @@ svg {
   color: #98a8b9;
 }
 .footer-wrap footer .footer-address .link-brand:hover {
-  color: #0078ff;
+  color: #477d54;
 }
 .hidden {
   display: none !important;
@@ -437,7 +437,7 @@ table svg {
   width: 1.25rem;
   height: 1.25rem;
   border-radius: 50%;
-  border: 1px solid #0078ff;
+  border: 1px solid #477d54;
   margin-right: 0.375rem;
   display: inline-block;
 }
@@ -627,13 +627,13 @@ table svg {
   }
   .filter-box .filter-options .input-checkbox:not([disabled]):focus,
   .filter-box .filter-options .input-checkbox:not([disabled]):hover {
-    border-color: #0078ff;
+    border-color: #477d54;
     background-color: transparent;
     background-size: 0.875rem 0.75rem;
   }
   .filter-box .filter-options .input-checkbox:checked {
-    border-color: #0078ff;
-    background: #0078ff
+    border-color: #477d54;
+    background: #477d54
       url(/assets/img-check-sm-light-c6c81f31aa06c36b958455d046792770241fe33b1e41998e22485fd6e41f13a2.png)
       no-repeat center center !important;
     background-size: 0.625rem 0.5rem !important;
@@ -1676,7 +1676,7 @@ table svg {
     min-width: 1.25rem;
     max-width: 1.25rem;
     height: 1.25rem;
-    border: 0.125rem solid #0078ff;
+    border: 0.125rem solid #477d54;
     margin-right: 0.375rem;
     -webkit-appearance: none;
     -moz-appearance: none;
@@ -2123,7 +2123,7 @@ div[class^="icon-remove-"] {
 }
 div[class^="icon-add-"]:hover *,
 div[class^="icon-remove-"]:hover * {
-  fill: #0078ff;
+  fill: #477d54;
 }
 .font-size-18 {
   font-size: rem-calc(18);
@@ -3367,7 +3367,7 @@ div[class^="icon-remove-"]:hover * {
   fill: #fff;
 }
 .ic-primary {
-  fill: #0078ff;
+  fill: #477d54;
 }
 .font-size-18 {
   font-size: rem-calc(18);
@@ -3694,7 +3694,7 @@ div[class^="icon-remove-"]:hover * {
     .area-checkbox
     .label-checkbox
     input[type="checkbox"]:not([disabled]):hover {
-    border-color: #0078ff;
+    border-color: #477d54;
     background-color: transparent;
     background-size: 0.875rem 0.75rem;
   }
@@ -3704,8 +3704,8 @@ div[class^="icon-remove-"]:hover * {
     .area-checkbox
     .label-checkbox
     input[type="checkbox"]:checked {
-    border-color: #0078ff;
-    background: #0078ff
+    border-color: #477d54;
+    background: #477d54
       url(/assets/img-check-sm-light-c6c81f31aa06c36b958455d046792770241fe33b1e41998e22485fd6e41f13a2.png)
       no-repeat center center !important;
     background-size: 0.625rem 0.5rem !important;
@@ -3818,7 +3818,7 @@ div[class^="icon-remove-"]:hover * {
     .dropdown-filter
     label
     input[type="checkbox"]:not([disabled]):hover {
-    border-color: #0078ff;
+    border-color: #477d54;
     background-color: transparent;
     background-size: 0.875rem 0.75rem;
   }
@@ -3834,8 +3834,8 @@ div[class^="icon-remove-"]:hover * {
     .dropdown-filter
     label
     input[type="checkbox"]:checked {
-    border-color: #0078ff;
-    background: #0078ff
+    border-color: #477d54;
+    background: #477d54
       url(/assets/img-check-sm-light-c6c81f31aa06c36b958455d046792770241fe33b1e41998e22485fd6e41f13a2.png)
       no-repeat center center !important;
     background-size: 0.625rem 0.5rem !important;
@@ -3892,7 +3892,7 @@ div[class^="icon-remove-"]:hover * {
       .dropdown-filter
       label
       input[type="checkbox"]:not([disabled]):hover {
-      border-color: #0078ff;
+      border-color: #477d54;
       background-color: transparent;
       background-size: 0.875rem 0.75rem;
     }
@@ -3908,8 +3908,8 @@ div[class^="icon-remove-"]:hover * {
       .dropdown-filter
       label
       input[type="checkbox"]:checked {
-      border-color: #0078ff;
-      background: #0078ff
+      border-color: #477d54;
+      background: #477d54
         url(/assets/img-check-sm-light-c6c81f31aa06c36b958455d046792770241fe33b1e41998e22485fd6e41f13a2.png)
         no-repeat center center !important;
       background-size: 0.625rem 0.5rem !important;
@@ -3966,8 +3966,8 @@ div[class^="icon-remove-"]:hover * {
     .dropdown-filter
     label
     input[type="radio"]:not([disabled]):hover {
-    border: 0.4rem solid #0078ff;
-    background-color: #0078ff;
+    border: 0.4rem solid #477d54;
+    background-color: #477d54;
   }
   .job-positions-spa
     .control-panel
@@ -3981,7 +3981,7 @@ div[class^="icon-remove-"]:hover * {
     .dropdown-filter
     label
     input[type="radio"]:checked {
-    border: 0.4rem solid #0078ff;
+    border: 0.4rem solid #477d54;
     background-color: #fff !important;
   }
 }
@@ -4036,8 +4036,8 @@ div[class^="icon-remove-"]:hover * {
       .dropdown-filter
       label
       input[type="radio"]:not([disabled]):hover {
-      border: 0.32rem solid #0078ff;
-      background-color: #0078ff;
+      border: 0.32rem solid #477d54;
+      background-color: #477d54;
     }
     .job-positions-spa
       .control-panel
@@ -4051,7 +4051,7 @@ div[class^="icon-remove-"]:hover * {
       .dropdown-filter
       label
       input[type="radio"]:checked {
-      border: 0.32rem solid #0078ff;
+      border: 0.32rem solid #477d54;
       background-color: #fff !important;
     }
   }
@@ -4571,6 +4571,10 @@ div[class^="icon-remove-"]:hover * {
   flex-wrap: nowrap;
   align-items: center;
   justify-content: space-between;
+  background: linear-gradient(to left top, #477d54, #c5ecbc);
+  color: transparent;
+  -webkit-background-clip: text;
+  margin-top: 10%;
 }
 .resume__preview .timeline-wrap {
   display: flex;
@@ -4677,15 +4681,15 @@ div[class^="icon-remove-"]:hover * {
   .form__toolbar--index
     .btn-display-archived-resumes
     input[type="checkbox"]:not([disabled]):hover {
-    border-color: #0078ff;
+    border-color: #477d54;
     background-color: transparent;
     background-size: 0.875rem 0.75rem;
   }
   .form__toolbar--index
     .btn-display-archived-resumes
     input[type="checkbox"]:checked {
-    border-color: #0078ff;
-    background: #0078ff
+    border-color: #477d54;
+    background: #477d54
       url(/assets/img-check-sm-light-c6c81f31aa06c36b958455d046792770241fe33b1e41998e22485fd6e41f13a2.png)
       no-repeat center center !important;
     background-size: 0.625rem 0.5rem !important;
@@ -4848,7 +4852,7 @@ div[class^="icon-remove-"]:hover * {
   -webkit-font-smoothing: antialiased;
 }
 .resume__preview .resume__summary footer a:hover {
-  color: #0078ff;
+  color: #477d54;
 }
 .resume__preview .resume__summary .name {
   display: flex;
@@ -4916,7 +4920,7 @@ div[class^="icon-remove-"]:hover * {
 }
 .resume__preview .resume__summary .stack-item:hover {
   color: #fff;
-  background-color: #0078ff;
+  background-color: #477d54;
 }
 .resume__preview .resume__summary .stacks__primary .list-stack {
   margin-bottom: 1rem;
@@ -4927,7 +4931,7 @@ div[class^="icon-remove-"]:hover * {
 }
 .resume__preview .resume__summary .stacks__primary .stack-item:hover {
   color: #fff;
-  background-color: #0078ff;
+  background-color: #477d54;
 }
 .resume__preview .resume__summary .stat-chart-wrap {
   min-height: 11.875rem;
@@ -5097,7 +5101,7 @@ div[class^="icon-remove-"]:hover * {
   text-decoration: underline;
 }
 .card-resume-detail-item .card-title a:hover {
-  color: #0078ff;
+  color: #477d54;
 }
 .card-resume-detail-item .card-title span {
   font-size: 12px;
@@ -5132,7 +5136,7 @@ div[class^="icon-remove-"]:hover * {
 }
 .card-resume-detail-item .card-text a:not(.btn):hover,
 .card-resume-detail-item .list-contribution-item a:not(.btn):hover {
-  color: #0078ff;
+  color: #477d54;
 }
 .card-resume-detail-item .card-period {
   float: right;
@@ -5214,7 +5218,7 @@ div[class^="icon-remove-"]:hover * {
   color: #263747;
 }
 .list-contributions .list-contribution-item a:hover {
-  color: #0078ff;
+  color: #477d54;
 }
 .list-contributions .list-contribution-item .part-period,
 .list-contributions .list-contribution-item .part-title {
@@ -5270,7 +5274,7 @@ div[class^="icon-remove-"]:hover * {
     min-width: 1.25rem;
     max-width: 1.25rem;
     height: 1.25rem;
-    border: 0.125rem solid #0078ff;
+    border: 0.125rem solid #477d54;
     margin-right: 0.375rem;
     -webkit-appearance: none;
     -moz-appearance: none;
@@ -5299,7 +5303,7 @@ div[class^="icon-remove-"]:hover * {
   .table-resumes .selected input[type="radio"]:hover,
   .table-resumes .selected input[type="radio"][type="checked"] {
     background-color: #fff;
-    border: 0.48rem solid #0078ff;
+    border: 0.48rem solid #477d54;
   }
 }
 .resume-card {
@@ -5330,6 +5334,7 @@ div[class^="icon-remove-"]:hover * {
   display: flex;
   justify-content: flex-start;
   align-items: center;
+  background: #ebf3e9;
 }
 .resume-card-header .resume-card-left {
   max-height: 2.125rem;
@@ -5389,7 +5394,7 @@ div[class^="icon-remove-"]:hover * {
   color: #263747;
 }
 .resume-card-item-text a:hover {
-  color: #0078ff;
+  color: #477d54;
 }
 .resume-card-item-label + .resume-card-item-text {
   margin-top: 0.5rem;
@@ -5576,7 +5581,7 @@ div[class^="icon-remove-"]:hover * {
   }
 }
 .personal-information .contacts li a:hover {
-  color: #0078ff;
+  color: #477d54;
 }
 .personal-information .contacts li a:after {
   display: none;
@@ -6851,8 +6856,8 @@ div[class^="icon-remove-"]:hover * {
     .list-group-item
     .quiz-examples
     input.quiz-example-radiobutton:not([disabled]):hover {
-    border: 0.32rem solid #0078ff;
-    background-color: #0078ff;
+    border: 0.32rem solid #477d54;
+    background-color: #477d54;
   }
   .theme-light
     .quiz-content
@@ -6861,7 +6866,7 @@ div[class^="icon-remove-"]:hover * {
     .list-group-item
     .quiz-examples
     input.quiz-example-radiobutton:checked {
-    border: 0.32rem solid #0078ff;
+    border: 0.32rem solid #477d54;
     background-color: #fff !important;
   }
 }
@@ -6900,7 +6905,7 @@ div[class^="icon-remove-"]:hover * {
     .list-group-item
     .quiz-examples
     input.quiz-example-checkbox:not([disabled]):hover {
-    border-color: #0078ff;
+    border-color: #477d54;
     background-color: transparent;
     background-size: 0.875rem 0.75rem;
   }
@@ -6911,8 +6916,8 @@ div[class^="icon-remove-"]:hover * {
     .list-group-item
     .quiz-examples
     input.quiz-example-checkbox:checked {
-    border-color: #0078ff;
-    background: #0078ff
+    border-color: #477d54;
+    background: #477d54
       url(/assets/img-check-sm-light-c6c81f31aa06c36b958455d046792770241fe33b1e41998e22485fd6e41f13a2.png)
       no-repeat center center !important;
     background-size: 0.625rem 0.5rem !important;
@@ -6935,11 +6940,11 @@ div[class^="icon-remove-"]:hover * {
   }
   .registration__agreement .input-agreement-item input:not([disabled]):focus,
   .registration__agreement .input-agreement-item input:not([disabled]):hover {
-    border: 0.32rem solid #0078ff;
-    background-color: #0078ff;
+    border: 0.32rem solid #477d54;
+    background-color: #477d54;
   }
   .registration__agreement .input-agreement-item input:checked {
-    border: 0.32rem solid #0078ff;
+    border: 0.32rem solid #477d54;
     background-color: #fff !important;
   }
 }
